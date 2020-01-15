@@ -1,0 +1,14 @@
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\bin\Debug\SortBF_WPF.exe.config
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\bin\Debug\SortBF_WPF.exe
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\bin\Debug\SortBF_WPF.pdb
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\SortBF_WPF.csprojAssemblyReference.cache
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\App.g.cs
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\SortBF_WPF_MarkupCompile.cache
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\SortBF_WPF_MarkupCompile.lref
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\MainWindow.baml
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\SortBF_WPF.g.resources
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\SortBF_WPF.Properties.Resources.resources
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\SortBF_WPF.csproj.GenerateResource.cache
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\SortBF_WPF.exe
+C:\Users\mrbug\source\repos\SortBF_WPF\SortBF_WPF\obj\Debug\SortBF_WPF.pdb
